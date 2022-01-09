@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Sub2" />
         <module name="config" />
-        <module name="Sub1" />
+        <module name="Sub2" />
         <module name="Sub1 (1)" />
+        <module name="Sub1" />
       </profile>
     </annotationProcessing>
   </component>
